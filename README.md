@@ -2,7 +2,8 @@
 
 #### A simple Employee Management CRUD application built using React for the frontend and Spring Boot for the backend.
 
-![App image](https://github.com/anant0103/Alien_Invasion/blob/master/Screenshot%20(842).png)
+![App image](https://github.com/anant0103/React---SpringBoot-App/blob/master/Images/Screenshot%20from%202025-06-22%2010-38-56.png)
+![App image](https://github.com/anant0103/React---SpringBoot-App/blob/master/Images/Screenshot%20from%202025-06-22%2010-39-00.png)
 
 ## 📑 Table of Contents
 * [Overview](#overview)
